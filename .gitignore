@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Local data and learned model
+data/
+models/
+
+# Editor and operating system files
+.DS_Store
+.vscode/
+
+# Test artifacts
+.coverage
+.pytest_cache/
+workspace/notes/
